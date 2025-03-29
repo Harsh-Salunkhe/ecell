@@ -1,0 +1,224 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+html,
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  line-height: 1.4;
+  
+}
+
+
+.nav-item1{
+    margin-left: 200px;
+    margin-top: 10px;
+    color: aliceblue;
+}
+nav{
+    background-image: url(./images/header\ bg.jpg);
+    
+}
+
+header{
+    background-image: url(./images/Screenshot_28-3-2025_16544_static.vecteezy.com.jpeg);
+    height:1183.98px;
+    width:1462.5px ;
+}
+
+.r{
+    margin-top: 300px;
+}
+.hero{
+    margin-top: -500px;
+}
+.smart{
+    color: white;
+}
+nav{
+    color: white;
+}
+.hero-image{
+  height: 500px;
+}
+
+.apple{
+    margin-left: 500px;
+ float: left;
+ margin-top: -50px;
+}
+.play{
+    margin-left: 50px;
+ margin-top: -50px;
+}
+.download{
+    display: flex;
+}
+.heading{
+    margin-left: 600px;
+}
+.About-us{
+    background-image: url(./images/Screenshot_28-3-2025_16544_static.vecteezy.com.jpeg);
+    width: 1462.5px;
+    height: 2372px;
+}
+.u{
+    margin-left: 650px;
+    margin-top: 100px;
+}
+.about1{
+    margin-top: 100px;
+    margin-left: 600px;
+}
+.img2{
+    margin-right: 50px;
+}
+.our-clients{
+    background-image: url(./images/Screenshot_28-3-2025_16544_static.vecteezy.com.jpeg);
+    width: 1462.5px;
+    height:550px;
+}
+.testimonials{
+    height: 912px;
+}
+.t{
+    margin-left: 400px;
+}
+.a1{
+border-radius: 50%;
+}
+.row{
+    display: flex;
+}
+.b1{
+     margin-left:900px ;
+     margin-top: -315px;
+}
+.cross{
+    width: 300px;
+    margin-left: 700px;
+}
+.faq{
+    height: 1000px;
+    background-image: url(./images/Screenshot_28-3-2025_16544_static.vecteezy.com.jpeg);
+}
+.f{
+    margin-left: 700px;
+    margin-top: 200px;
+  width: 400px;
+   
+}
+.f1{
+    margin-top: 50px;
+    width: 676px;
+    margin-left: 500px;
+}
+.plus-icon{
+    margin-left: 10px;
+}
+.text{
+    margin-left: 20px;
+}
+
+
+.foot{
+    margin-top: 500px;
+}
+.b{
+    margin-left: 600px;
+    width: 220px;
+    height: 70px;
+    margin-top: -100px;
+}
+.tex{
+    margin-right: 200px;
+}
+
+.re{
+    color: aliceblue;
+}
+
+
+.hover-button {
+    background-color: ;
+    color: #1E5AFA;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition */
+  }
+
+  .hover-button:hover {
+    background-color: white;
+   
+    /* Change color when hovered */
+  }
+.b{
+    background-color: #1E5AFA;
+    color: aliceblue;
+    border: white;
+   margin-left: 0px;
+}
+.foots{
+    background-color: #031136;
+    color: aliceblue;
+    
+}
+.fr{
+    margin-left: 500px;
+}
+
+  
+/* Style for the whole section */
+
+  
+  /* Subscribe container */
+  .subscribe {
+    background-color: #1E5AFA;
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+    justify-content: space-between; /* Place text on the left and button on the right */
+    width: 1170px; /* Limit the width for better layout control */
+    height: 300px;
+  margin-left: -250px;
+    color: white; /* Text color */
+  }
+  
+  /* Inside section (text) styling */
+  .inside {
+    max-width: 60%; /* Allow space for button on the right */
+  }
+  
+  /* Style for heading */
+  .display-5 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-left: 50px;
+  }
+  
+  /* Paragraph styling */
+  .tex p {
+    font-size: 1rem;
+    color: #ddd; /* Lighter color for the paragraph */
+    margin-top: 10px;
+    margin-left: 100px;
+  }
+  
+  /* Button styling */
+  .b {
+    padding: 12px 25px;
+    font-size: 1.1rem;
+    background-color: #1E5AFA; /* Green background for button */
+    color: white;
+    border: 5px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+    margin-right: 100px;
+    margin-top: 20px;
+  }
+  
+  /* Hover effect for button */
+  .b:hover {
+    background-color: rgb(20, 226, 226); /* Darker green when hovering */
+  }
+  
